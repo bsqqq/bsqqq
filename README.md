@@ -5,7 +5,7 @@
 
 - Estudante de Ciência da Computação pela Universidade de Fortaleza 👨🏻‍💻 e atualmente a procura de um emprego.
 - Estudando o desenvolvimento Front-end com React.js para me tornar um desenvolvedor Fullstack de mão cheia.
-- Metas para 2021: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20px"> e ficar cada vez mais proximo se ser um Red Team profissional!
+- Metas para 2021: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="10px"> e ficar cada vez mais proximo se ser um Red Team profissional!
 
 ---
 
