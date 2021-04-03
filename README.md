@@ -56,7 +56,7 @@
     <img 
       alt="LinkedIn" 
       title="Vinicius Moura Aragão"
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-bagde&logo=linkedin&labelColor=blue"
+      src="https://img.shields.io/badge/LinkedIn-blue-%23121011.svg?style=for-the-bagde&logo=linkedin&labelColor=blue"
     />
    </a>
 </div>
