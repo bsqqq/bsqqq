@@ -52,6 +52,13 @@
       src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
     />
    </a>
+   <a href="https://linkedin.com/in/vinicius-m-aragao">
+    <img 
+      alt="LinkedIn" 
+      title="Vinicius Moura Aragão"
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-bagde&logo=linkedin&labelColor=blue"
+    />
+   </a>
 </div>
 
 ---
