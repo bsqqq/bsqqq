@@ -20,6 +20,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React.js-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
