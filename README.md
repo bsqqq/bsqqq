@@ -3,9 +3,9 @@
 
 ### Um pouco sobre mim...
 
-- Estudante de Ciência da Computação pela Universidade de Fortaleza 👨🏻‍💻 e atualmente estagiário de Gestão Técnica na Parceria Engenharia.
+- Estudante de *Ciência da Computação* pela Universidade de Fortaleza 👨🏻‍💻 e atualmente estagiário de Gestão Técnica na Parceria Engenharia.
 - Estudando o desenvolvimento Front-end com React.js <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px"> para me tornar um desenvolvedor Fullstack de mão cheia.
-- Metas para 2021: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e ficar cada vez mais proximo se ser um Red Team profissional!
+- Metas para 2022: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e ficar cada vez mais proximo se ser um Red Team profissional!
 
 ---
 
