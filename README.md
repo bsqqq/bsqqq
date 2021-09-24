@@ -30,11 +30,11 @@
 <div align="left"> 
       <img 
          width="450px" 
-         src="https://github-readme-stats.vercel.app/api?username=bsqqq&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=gradient"
+         src="https://github-readme-stats.vercel.app/api?username=bsqqq&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"
       />
       <img 
          width="330px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact&theme=gradient"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact&theme=radical"
       >
 </div>
 
