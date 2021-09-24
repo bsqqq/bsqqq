@@ -30,16 +30,13 @@
 <div align="left"> 
       <img 
          width="450px" 
-         src="https://github-readme-stats.vercel.app/api?username=bsqqq&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"
+         src="https://github-readme-stats.vercel.app/api?username=bsqqq&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=gradient"
       />
       <img 
          width="330px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact&theme=radical"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact&theme=gradient"
       >
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 ### 🤝🏻 Fale comigo! 
