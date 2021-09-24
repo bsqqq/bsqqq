@@ -36,11 +36,10 @@
          width="330px" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact&theme=radical"
       >
-      <img
-         width:"330px"
-         src:"https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
-      >
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsqqq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ### 🤝🏻 Fale comigo! 
