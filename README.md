@@ -5,7 +5,10 @@
 
 - Estudante de *Ciência da Computação* pela Universidade de Fortaleza 👨🏻‍💻 e atualmente Desenvolvedor Web Front-end Júnior na empresa JBQ.Global.
 - Estudando o desenvolvimento Front-end com React e React Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px"> para me tornar um desenvolvedor Fullstack de mão cheia.
-- Metas para 2022: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e ficar cada vez mais proximo se ser um Pentester profissional!
+- Metas para 2022: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
+ficar cada vez mais proximo se ser um Pentester profissional!
+- Meus hobbies incluem estudar falhas de segurança em aplicações web/mobile, fazer engenharia reversa em desafios "CRACKME" e praticar musculação.
+- As vezes gosto de procurar por falhas XSS no meu tempo livre... 🤫
 
 ---
 
