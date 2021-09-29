@@ -9,7 +9,7 @@
 ficar cada vez mais proximo se ser um Pentester profissional!
 - Meus hobbies incluem estudar falhas de segurança em aplicações web/mobile, fazer engenharia reversa em desafios "CRACKME" e praticar musculação.
 - As vezes gosto de procurar por falhas XSS no meu tempo livre... 🤫
-      <script>alert(1)</script>
+<img src="https://testedefotoinexisten.te/foto.png" onerror="javascript:alert('se consegue ver este alerta, saiba que foi por causa de uma vulnerabilidade xss')"></img>
 
 ---
 
