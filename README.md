@@ -9,9 +9,6 @@
 ficar cada vez mais proximo se ser um Pentester profissional!
 - Meus hobbies incluem estudar falhas de segurança em aplicações web/mobile, fazer engenharia reversa em desafios "CRACKME" e praticar musculação.
 - As vezes gosto de procurar por falhas XSS no meu tempo livre... 🤫
-<img src="https://testedefotoinexisten.te/foto.png" onerror="javascript:alert(1)"></img>
-<img src="https://miro.medium.com/max/2000/0*1xmCZcxmcmU" alt="The goodest boy" onerror="javascript:eval(alert(1))"> 
-! [clica aqui](javascript:eval(alert(1)))
 
 ---
 
