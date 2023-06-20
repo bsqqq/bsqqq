@@ -3,11 +3,11 @@
 
 ### Um pouco sobre mim...
 
-- Estudante de *Ciência da Computação* pela Universidade de Fortaleza 👨🏻‍💻 e Desenvolvedor Web Fullstack Júnior/Pleno.
-- Tenho conhecimento em desenvolvimento Front-end com React e React Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px"> e futuramente me aprofundar em Vue.
-- Metas para 2023: Ser Senior em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
+- Estudante de *Ciência da Computação* pela Universidade de Fortaleza 👨🏻‍💻.
+- Desenvolvedor Front-end com React e React Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px"> e futuramente em Vue.
+- Metas para 2024: Ser Senior em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
 ficar cada vez mais proximo se ser um Pentester profissional!
-- Meus hobbies incluem estudar falhas de segurança em aplicações web/mobile, fazer engenharia reversa em desafios "CRACKME".
+- Meus hobbies incluem estudar falhas de segurança em aplicações web, fazer engenharia reversa em desafios "CRACKME".
 - As vezes gosto de procurar por falhas XSS no meu tempo livre... 🤫
 
 ---
