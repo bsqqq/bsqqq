@@ -12,7 +12,7 @@ ficar cada vez mais proximo se ser um Pentester profissional!
 
 ---
 
-### 📚 Minhas tecnologias:
+### 📚 Tecnologias que domino:
 
 ![React](https://img.shields.io/badge/React.js-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-%231572B6.svg?&style=for-the-badge&logo=react&logoColor)
