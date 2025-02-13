@@ -5,8 +5,7 @@
 
 - *Ciêntista da Computação* pela Universidade de Fortaleza 👨🏻‍💻.
 - Desenvolvedor Front-end com React e React Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px"> e futuramente em Vue.
-- Metas para 2025: Conseguir um emprego estavel <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
-ficar cada vez mais proximo se ser um Pentester profissional!
+- Metas para 2025: Conseguir um emprego estavel e ficar cada vez mais proximo se ser um Pentester profissional!
 - Meus hobbies incluem estudar Infosec, praticar os conhecimentos no Hack The Box e afins, montar PoC's, etc...
 - ATUALMENTE ABERTO A OPORTUNIDADES DE EMPREGO! 
 ---
